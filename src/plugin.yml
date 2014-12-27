@@ -1,0 +1,5 @@
+name: NoAnvilSound
+main: com.mydeblob.nosound.NoSound
+version: 1.0
+author: mydeblob
+depend: [ProtocolLib]
